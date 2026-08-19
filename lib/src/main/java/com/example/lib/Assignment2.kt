@@ -25,6 +25,6 @@ fun convert(names : Array<String?>) {
 }
 
 fun main() {
-    convert(names = arrayOf("john", null, "merry", "robert","gowtham"))
+    convert(names = arrayOf("john", null, "merry", "robert"))
 
 }
